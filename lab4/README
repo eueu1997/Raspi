@@ -1,1 +1,2 @@
-1.PY è lo script per leggere il sensore, mymqqt.py serve a niente , 
+1.PY è lo script per leggere il sensore, mymqqt.py serve a niente , lanciando lha.py fa due get ( una temp una humidity) 
+Il sensore da valori sensati
